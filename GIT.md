@@ -241,6 +241,7 @@ git checkout 分支名 && git reset --hart commithash
 - git branch -u 别名/分支名字 =>  git pull  //直接拉下来  =>git push 上传
 - git branch -vv  //查看是否已跟踪
 - git remote add 新别名  git地址            //修改别名
+- git push alias--delete branchname    //删除远程分支
 
 
 
